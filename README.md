@@ -1,4 +1,4 @@
--># Welcome to the code repository of the<-
+# Welcome to the code repository of the
 
 #[**Scientific Computing**](http://helios.physics.howard.edu/~deleo/MATH450/)
 
