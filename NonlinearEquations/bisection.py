@@ -1,3 +1,4 @@
+#!/usr/local/sage/local/bin/python
 import sys
 from math import *
 
