@@ -2,7 +2,7 @@
 % for the Newton method on the plane
 % based on the code by Tomasz Malisiewcz <tomasz@cmu.edu> at http://quantombone.blogspot.com/
 % Eg you can call this code from the CLI with
-% matlab -nodesktop -nosplash -r "[n,s]=newtonBasins(-1,1,-1,1,1000); imagesc(n)"
+% matlab -nodesktop -nosplash -r "[n,s]=newtonBasinsReal(-1,1,-1,1,1000); imagesc(n)"
 function [niters,solutions] = newtonBasinsReal(xmin,xmax,ymin,ymax,rez)
   NITER = 400;
   threshold = .001;
