@@ -9,7 +9,7 @@ function [niters,solutions] = newtonBasinsComplex
   NITER = 400;
   threshold = .001;
 
-  [xs,ys] = meshgrid(linspace(-1,1,50), linspace(-1,1,50));
+  [xs,ys] = meshgrid(linspace(-1,1,5000), linspace(-1,1,5000));
   solutions = xs(:) + i*ys(:);
   select = 1:numel(xs);
   niters = NITER*ones(numel(xs), 1);
@@ -37,7 +37,9 @@ function [niters,solutions] = newtonBasinsComplex
 function res = f(z)
 %  res = (z.^2).*z - 2*z + 2;
   res = (z.^2).*z - 1;
+%  res = (z.^2) - 2;
     
 function res = fprime(z)
 %  res = 3*z.^2 - 2;
   res = 3*z.^2;
+%  res = 2*z;
