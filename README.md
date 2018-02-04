@@ -4,6 +4,6 @@
 
 ![alt tag](http://helios.physics.howard.edu/~deleo/scientific-computing.png)
 
-In this pages is collected all code from outside and inside sources used in my Scientific Computing course.
+In this pages is collected all code from outside and inside sources used in my Numerical Analysis course.
 
 Most of the code is in Python and MatLab, with some occasional program in Fortran, C and Julia.
