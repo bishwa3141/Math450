@@ -1,6 +1,6 @@
 # Welcome to the code repository of the [**Numerical Analysis**](http://helios.physics.howard.edu/~deleo/MATH247/)
 
-##course (Spring 2018) at the [Department of Mathematics](http://coas.howard.edu/mathematics/) of [Howard University](https://www2.howard.edu/).
+##course (Spring 2018) at the [Dept. of Mathematics](http://coas.howard.edu/mathematics/) of [Howard University](https://www2.howard.edu/).
 
 ![alt tag](http://helios.physics.howard.edu/~deleo/scientific-computing.png)
 
